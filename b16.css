@@ -182,7 +182,7 @@
 
 @font-face {
  font-family: "Google Sans Bold";
- src: url("/src/fonts/GoogleSans-Bold.ttf") format("opentype")
+ src: url("GoogleSans-Bold.ttf") format("opentype")
 }
 
 .gsbold {
@@ -191,7 +191,7 @@
 
 @font-face {
  font-family: "Roboto Mono";
- src: url("/src/fonts/Roboto-Mono.ttf") format("opentype")
+ src: url("Roboto-Mono.ttf") format("opentype")
 }
 
 .roboto-mono {
@@ -200,7 +200,7 @@
 
 @font-face {
  font-family: "Roboto Regular";
- src: url("/src/fonts/Roboto-Regular.ttf") format("opentype")
+ src: url("Roboto-Regular.ttf") format("opentype")
 }
 
 .roboto {
@@ -209,7 +209,7 @@
 
 @font-face {
  font-family: "Roboto Light";
- src: url("/src/fonts/Roboto-Light.ttf") format("opentype")
+ src: url("Roboto-Light.ttf") format("opentype")
 }
 
 .roboto-light {
