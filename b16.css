@@ -164,7 +164,7 @@
 
 @font-face {
  font-family: "Google Sans Regular";
- src: url("/src/fonts/GoogleSans-Regular.ttf") format("opentype")
+ src:url("GoogleSans-Regular.ttf") format("opentype")
 }
 
 .gsregular {
@@ -173,7 +173,7 @@
 
 @font-face {
  font-family: "Google Sans Medium";
- src: url("/src/fonts/GoogleSans-Medium.ttf") format("opentype")
+ src: url("GoogleSans-Medium.ttf") format("opentype")
 }
 
 .gsmedium {
