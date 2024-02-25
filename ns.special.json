@@ -1,10 +1,8 @@
 {
-  "name": "Param Panchal",
-  "about": "This user is a バカ",
-  "navigation": {
-    "nav_home": "Home",
-    "nav_project": "My Projects",
-    "nav_blog": "Blog",
-    "nav_donuts": "Donuts"
+"name":"Param Panchal",
+"about":"[this user is a バカ ]",
+"nav_home":"Home",	
+"nav_project":"My Projects",
+"nav_blog":"Blog",
+"nav_donuts":"Donuts",
   }
-}
